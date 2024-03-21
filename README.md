@@ -17,7 +17,7 @@
 |структура данных|поля структуры|функция добавления|функция извлечения|
 |--------|--------|--------|--------|
 |стек на массивах|![stack_mass_pole_struct](./pictures/stack_mass_pole_struct.jpg)|![stack_mass_funct_add](./pictures/stack_mass_funct_add.jpg)|![stack_mass_funct_ex](./pictures/stack_mass_funct_ex.jpg)|
-|стек на списках|![stack_list_pole_struct](./pictures/stack_list_pole_struct.jpg)|![stack_list_funct_add](./pictures/stack_list_funct_add.jpg)|![stack_list_funct_ex](./pictures/stack_list_funct_ex.jpg)|
+|стек на списках|![stack_list_pole_struct](./pictures/stack_list_pole_struct.png)|![stack_list_funct_add](./pictures/stack_list_funct_add.jpg)|![stack_list_funct_ex](./pictures/stack_list_funct_ex.jpg)|
 |очередь на массивах|![queue_mass_pole_struct](./pictures/queue_mass_pole_struct.png)|![queue_mass_funct_add](./pictures/queue_mass_funct_add.png)|![queue_mass_funct_ex](./pictures/queue_mass_funct_ex.jpg)|
 |очередь на списках|![queue_list_pole_struct](./pictures/queue_list_pole_struct.png)|![queue_list_funct_add](./pictures/queue_list_funct_add.png)|![queue_list_funct_ex](./pictures/queue_list_funct_ex.jpg)|
 
