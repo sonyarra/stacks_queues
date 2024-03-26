@@ -5,9 +5,9 @@ const int array_size = 10000;
 
 template <typename T>
 struct stack_mass {
-    T* hop;
-    T mass[array_size];
-    int counter_of_elm = 0;
+    T* hop; //указатель на текущий элемент стека
+    T mass[array_size]; //массив, который служит для хранения элементов стека
+    int counter_of_elm = 0; //это счетчик количества элементов в стеке
 
     void add_element(T elm) {
         if (counter_of_elm == array_size) {
