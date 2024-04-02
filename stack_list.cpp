@@ -5,11 +5,11 @@
 
 const int array_size = 10000;
 
-template <typename T>
+template <typename T> //позволяет писать универсальный код, который может работать с различными типами данных,
 struct stack_list { // Определение структуры стека на основе списка
     std::list<T> storage; // Хранение элементов стека в виде списка
 
-    void push_element(T element) {
+    void push_element(T element) { //добавляем элемент
         if (storage.size() >= array_size) {
             // Если размер очереди достиг предела, то не добавляем новый элемент
             std::cout << "Stack is full, can not add an element" << std::endl;
